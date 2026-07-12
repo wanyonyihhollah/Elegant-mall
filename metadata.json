@@ -1,0 +1,6 @@
+{
+  "name": "Elegant Mall",
+  "description": "A luxury full-stack shopping application featuring premium brand catalogs, food court ordering, automated M-Pesa STK simulations, and a Gemini-grounded AI Concierge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
